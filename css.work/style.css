@@ -28,7 +28,7 @@ h1{
 .product{
     overflow: hidden;
     background: #ffffff;
-    color: #21201e;
+    color: #2c3e50;
     text-align: center;
     width: 240px;
     height: 340px;
@@ -59,3 +59,7 @@ h1{
     margin-top: 1rem;
     transition: all 0.2s;
 }
+
+.product a:hover{
+     transform: scale(1.1);
+} 
